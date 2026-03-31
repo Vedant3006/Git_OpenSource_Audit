@@ -1,0 +1,7 @@
+--- MY OSS MANIFESTO ---
+Developer: Vedant Patil
+Date: Sun Mar 29 18:34:51 UTC 2026
+------------------------
+I use Git to change the world.
+To me, Open Source is all about Freedom.
+My next contribution will be: AI Project.
